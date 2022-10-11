@@ -16,8 +16,8 @@ If you don't want to install this package you can run **GLIDE(filtered)** on the
 * The **inpaint** [![][colab]][colab-inpaint] notebook shows how to use GLIDE (filtered) to fill in a masked region of an image, conditioned on a text prompt.
 
 [colab]: <https://colab.research.google.com/assets/colab-badge.svg>
-[colab-text2im]: <https://colab.research.google.com>
-[colab-inpaint]: <https://colab.research.google.com>
+[colab-text2im]: <https://colab.research.google.com/drive/107TfaoCr78kCrUqZPfW183nvT0ItramR?usp=sharing>
+[colab-inpaint]: <https://colab.research.google.com/drive/1F35g0yIe1qATw6Tf-gVIQnBkyOEt9KIM?usp=sharing>
 
 ---
 
