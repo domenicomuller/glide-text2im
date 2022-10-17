@@ -10,7 +10,7 @@ For details on the pre-trained models in this repository, see the [Model Card](m
 
 If you don't want to install this package you can run **GLIDE(filtered)** on these two Colab Notebooks: 
 
-* The **C-Free&CLIP_guidance** [![][colab]][colab-text2im] notebook shows how to use GLIDE (filtered) with both classifier-free and CLIP guidance to produce images conditioned on text prompts. 
+* The **C_Free&CLIP_guidance** [![][colab]][colab-text2im] notebook shows how to use GLIDE (filtered) with both classifier-free and CLIP guidance to produce images conditioned on text prompts. 
 * The **inpaint** [![][colab]][colab-inpaint] notebook shows how to use GLIDE (filtered) to fill in a masked region of an image, conditioned on a text prompt.
 
 [colab]: <https://colab.research.google.com/assets/colab-badge.svg>
