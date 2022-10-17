@@ -2,6 +2,8 @@
 
 Repo for the project of **Neural Networks** 2022 based on the work [GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models](https://arxiv.org/abs/2112.10741).
 
+You can read the detailed work on the [Report](report.pdf).
+
 For details on the pre-trained models in this repository, see the [Model Card](model-card.md).
 
 # **Usage**
